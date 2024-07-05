@@ -1,0 +1,450 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/* common css start */
+body{
+    font-size: 15px;  
+    padding-top: 95px; 
+}
+.c_padding{
+    padding: 60px 0;
+}
+.c_title h4{
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.c_title h2 {
+    font-size: 30px;
+}
+/* common css end */
+
+/* header & banner start */
+/* header start */
+
+header{
+    padding: 30px 0;
+}
+.n_togg i{
+    font-size: 30px;
+}
+.logo img{
+    width: 75%;
+}
+.menu ul{
+    margin-bottom: 0 !important;
+    text-align: right;
+}
+.menu ul li{
+    padding: 0 !important;
+}
+.menu ul li a{
+    padding: 0 !important;
+    padding-top: 8px !important;
+}
+.menu ul li:last-child a {
+    padding: 0 !important;
+    padding-top: 8px !important;
+}
+.b_bottom {
+    right: 20%;
+    opacity: 0;
+}
+.menu ul li a:hover .bb_1{
+    right: 0;
+}
+.menu ul li a:hover .bb_2{
+    right: 0;
+}
+.menu ul li a:hover .bb_3{
+    right: 0;
+}
+.menu ul li a:hover .bb_4{
+    right: 0;
+}
+.menu ul li a:hover .bb_5{
+    right: 0;
+}
+/* header end */
+/* banner start */
+.banner {
+    padding: 15px 0;
+}
+.b_title{
+    text-align: center;
+}
+.b_title h2 {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.b_title p {
+    font-size: 14px;
+}
+.b_btn{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 10px 25px;
+    font-size: 15px;
+}
+.b_img{
+    display: none;
+}
+.s_ind {
+    bottom: -15px;
+}
+/* banner end */
+
+/* header & banner end */
+/* service start */
+.s_item h4 {
+    font-size: 15px;
+}
+
+/* service end */
+/* feature start */
+.t_item  h4 {
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.t_item p{
+    margin-bottom: 5px;
+}
+.t_item h2{
+    font-size: 30px;
+}
+/* feature end */
+/* testi start */
+.testi_item h5{
+    font-size: 17px;
+}
+.owl-prev{
+    width: 35px;
+    height: 35px;
+}
+.owl-prev span{
+    font-size: 42px;
+    bottom: -25%
+}
+.owl-next{
+    width: 35px;
+    height: 35px;
+}
+.owl-next span{
+    font-size: 42px;
+    bottom: -25%;
+}
+/* testi end */
+/* work start */
+.w_img{
+    margin-top: 60px;
+    width: 100%;
+}
+/* work end */
+/* book start */
+.BOK-BTN{
+    text-align: center;
+}
+.BOK-BTN button{
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.form-img img {
+    display: none;
+}
+.b_form{
+    padding-bottom: 0;
+}
+.label_1{
+    display: none;
+}
+.label_2{
+    display: none;
+}
+.label_3{
+    display: none;
+}
+.label_4{
+    display: none;
+}
+.input_1{
+    display: none;
+}
+.input_2{
+    display: none;
+}
+.input_3{
+    display: none;
+}
+.input_4{
+    display: none;
+}
+/* book end */
+/* map start */
+.g_map iframe{
+    height: 200px;
+}
+/* map end */
+/* footer start */
+footer{
+    padding: 45px 0;
+    text-align: center;
+    font-size: 19px;
+}
+.f_icon {
+    margin-top: 10px;
+    margin-left: 0 !important;
+}
+.f_icon ul li{
+    padding: 5px;
+}
+.f_icon ul li i {
+    margin-left: 0;
+    font-size: 23px;
+}
+.t_top {
+    bottom: 30px;
+    right: 30px;
+}
+.t_top i {
+    font-size: 35px;
+}
+/* footer end */
+
+}  
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* common css start */
+body{
+    padding-top: 112px;
+}
+.c_padding{
+    padding: 70px 0;
+}
+/* common css end */
+/* header & banner start */
+/* header start */
+
+header{
+    padding: 35px 0;
+}
+.menu ul{
+    margin-bottom: 0 !important;
+    text-align: right;
+}
+.menu ul li{
+    padding: 0 !important;
+}
+.menu ul li a{
+    padding: 0 !important;
+    padding-top: 10px !important;
+}
+.menu ul li:last-child a {
+    padding: 0 !important;
+    padding-top: 10px !important;
+}
+.b_bottom {
+    right: 20%;
+    opacity: 0;
+}
+.menu ul li a:hover .bb_1{
+    right: 0;
+}
+.menu ul li a:hover .bb_2{
+    right: 0;
+}
+.menu ul li a:hover .bb_3{
+    right: 0;
+}
+.menu ul li a:hover .bb_4{
+    right: 0;
+}
+.menu ul li a:hover .bb_5{
+    right: 0;
+}
+/* header end */
+/* banner start */
+.banner {
+    padding: 45px 0;
+}
+.b_title{
+    text-align: center;
+}
+.b_title h2 {
+    margin-top: 40px;
+    font-size: 54px;
+}
+.b_title p {
+    font-size: 20px;
+}
+.b_img{
+    display: none;
+}
+.s_ind {
+    bottom: -35px;
+}
+/* banner end */
+
+/* header & banner end */
+
+/* book start */
+.BOK-BTN{
+    text-align: center;
+}
+.form-img img {
+    display: none;
+}
+.b_form{
+    padding-bottom: 0;
+}
+.label_3{
+    display: none;
+}
+.label_4{
+    display: none;
+}
+.input_3{
+    display: none;
+}
+.input_4{
+    display: none;
+}
+/* book end */
+/* map start */
+.g_map iframe{
+    height: 300px;
+}
+/* map end */
+/* footer start */
+footer{
+    padding: 50px 0;
+    text-align: center;
+}
+.f_icon {
+    margin-top: 20px;
+    margin-left: 0 !important;
+}
+.f_icon ul li i {
+    margin-left: 5px;
+    font-size: 25px;
+}
+/* footer end */
+ }
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* common css start */
+.c_padding{
+    padding: 80px 0;
+}
+/* common css end */
+/* header & banner start */
+/* header start */
+
+header{
+    padding: 40px 0;
+}
+.menu ul{
+    margin-bottom: 0 !important;
+    text-align: right;
+}
+.menu ul li{
+    padding: 0 !important;
+}
+.menu ul li a{
+    padding-right: 0 !important;
+    padding-top: 10px !important;
+}
+.menu ul li:last-child a {
+    padding-right: 0 !important;
+    padding-top: 10px !important;
+}
+.b_bottom {
+    right: 20%;
+    opacity: 0;
+}
+.menu ul li a:hover .bb_1{
+    right: 0;
+}
+.menu ul li a:hover .bb_2{
+    right: 0;
+}
+.menu ul li a:hover .bb_3{
+    right: 0;
+}
+.menu ul li a:hover .bb_4{
+    right: 0;
+}
+.menu ul li a:hover .bb_5{
+    right: 0;
+}
+/* header end */
+/* banner start */
+.b_title{
+    text-align: center;
+}
+.b_title h2 {
+    margin-top: 40px;s
+}
+.b_img{
+    display: none;
+}
+.s_ind {
+    bottom: -40px;
+}
+/* banner end */
+/* header & banner end */
+
+/* book start */
+.BOK-BTN{
+    text-align: center;
+}
+.form-img img {
+    display: none;
+}
+/* book end */
+/* google map start */
+.g_map iframe{
+    height: 400px;
+}
+/* google map end */
+/* footer start */
+footer{
+    padding: 50px 0;
+    text-align: center;
+}
+.f_icon {
+    margin-top: 20px;
+    margin-left: 0 !important;
+}
+/* footer end */
+
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start */
+.b_form button {
+    width: 21%;
+}
+/* banner end */
+/* book car stat */
+.form-img img {
+    width: 111%;
+}
+/* book car end */
+/* footer start */
+.f_icon {
+    margin-left: 60px !important;
+}
+/* footer end */
+ }
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+/* Extra extra large devices ( extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/* book start */
+    .form-img img {
+    width: 112%;
+}
+/* book end */
+}
