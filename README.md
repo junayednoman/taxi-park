@@ -1,4 +1,4 @@
-# Taxi Park 🚖🌐
+# Taxi Park 🚖
 
 Welcome to the Taxi Park website repository! This project showcases a sleek and fully responsive taxi-renting website, developed using HTML and CSS.
 
